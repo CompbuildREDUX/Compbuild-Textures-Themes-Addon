@@ -12,3 +12,5 @@ Compbuild Textures includes various themes addons for visual comfort, some theme
 2. Install the preferred theme addon
 3. Once you've installed the addon, put it in `AppData\Roaming\.minecraft\resourcepacks`
 4. To enable the addon, place the addon over Compbuild Textures. An image is shown below.
+
+![image](https://user-images.githubusercontent.com/59810988/146653262-aa32829f-a98f-4f43-a45c-c13cf86d8945.png)
